@@ -1,0 +1,11 @@
+p{
+    letter-spacing: 2px;
+    font-size: large; 
+    font-weight: bold; 
+    color: rgb(241, 241, 191);  
+    }
+    span{
+     color: aqua;
+     font-weight: bolder;
+     font-size: larger;   
+    }
